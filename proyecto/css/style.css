@@ -1,15 +1,46 @@
 body{
-background-color: #9b9b9b
+color:purple;
+background-color: #ade8bf;
 }
+
+ul.navbar {
+list-style-type: circle;
+padding: 0;
+margin: 0;
+position: fixed;
+top: 0em;
+left: 2em;
+width: 12em;
+}
+
+ul.navbar li{
+background: white;
+margin: 1em 0;
+padding: 0.5em;
+border-right: 2em solid black}
+ul.navbar a{
+text-decoration: underline}
+a:link {
+color: black}
+a:wisited {
+color: purple}
+
+address{
+margin-top: 1em;
+padding-top: 1em;
+border-top: thin dotted}
 h1{
- color: blue;
- }
+color: gray;
+}
 h2{
- color: red;
- }
+color: teal;
+}
 h3{
- color: green;
- }
- h6{
- color: cyan;
- }
+color: green;
+}
+h6{
+color: teal;
+}
+p{
+  color: black;
+}
