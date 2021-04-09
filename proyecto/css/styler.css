@@ -1,0 +1,25 @@
+body{background-color: lightgray;
+}
+hr{
+  border-color: coral;
+  background-color: coral;
+    height: 2px;
+}
+h1{
+  color: coral;
+  border-down: 2em solid black
+}
+h2{
+  color: salmon
+}
+footer{
+left: 2em;
+width: 12em;
+color:coral;
+margin: 1em 0;
+padding: 0.5em;
+text-decoration: underline}
+a:link {
+color: black}
+a:wisited {
+color: purple}
